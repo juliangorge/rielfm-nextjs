@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+	<channel>
+		<title>FM Riel - Noticias de Basavilbaso, Argentina y el mundo</title>
+		<description>Noticias en tiempo real. Información, videos y fotos sobre los hechos y los protagonistas más relevantes del momento de la Argentina y el mundo.</description>
+		<link>https://www.rielfm.com.ar/</link>
+		<item>
+			<title>Ciudad</title>
+			<description>Toda la información de Basavilbaso.</description>
+			<link>https://www.rielfm.com.ar/ciudad</link>
+	 	</item>
+		<item>
+			<title>Entre Ríos</title>
+			<description>Toda la información de Provincia.</description>
+			<link>https://www.rielfm.com.ar/provincia</link>
+	 	</item>
+		<item>
+			<title>Argentina</title>
+			<description>Toda la información de Argentina.</description>
+			<link>https://www.rielfm.com.ar/pais</link>
+	 	</item>
+		<item>
+			<title>Concursos docentes</title>
+			<description>Toda la información sobre concursos docentes.</description>
+			<link>https://www.rielfm.com.ar/concursos-docentes</link>
+	 	</item>
+		<item>
+			<title>Necrólogicas</title>
+			<description>Toda la información sobre fallecimientos.</description>
+			<link>https://www.rielfm.com.ar/necrologicas</link>
+	 	</item>
+		<item>
+			<title>Necrólogicas</title>
+			<description>Toda la información sobre edictos.</description>
+			<link>https://www.rielfm.com.ar/edictos</link>
+	 	</item>
+		<item>
+			<title>Lluvias</title>
+			<description>Toda la información sobre precipitaciones en la ciudad y la zona.</description>
+			<link>https://www.rielfm.com.ar/lluvias</link>
+	 	</item>
+	</channel>
+</rss>
